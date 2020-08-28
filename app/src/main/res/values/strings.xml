@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Adivina El Número</string>
+    <string name="app_game_welcome">Juega! Adivina el número! :D</string>
+    <string name="app_game_description">Intenta adivinar el número que estoy pensando entre 1 y 1000!</string>
+    <string name="app_game_hint_upper">El número es menor</string>
+    <string name="app_game_hint_lower">El número es mayor</string>
+    <string name="app_game_button_play_again">Jugar de nuevo</string>
+    <string name="app_game_input_number">#</string>
+</resources>
